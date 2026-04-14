@@ -1,0 +1,1152 @@
+pattern_id=0 len=10 injected_pos=303
+4a 93 f2 c8 96 e2 b2 00 f5 c0
+
+pattern_id=1 len=14 injected_pos=645
+75 b8 39 8f b9 fb 8e 3b 52 71 d9 46 13 eb
+
+pattern_id=2 len=10 injected_pos=1197
+11 e8 79 f2 3d 34 c4 bb f6 d5
+
+pattern_id=3 len=7 injected_pos=1655
+6f 22 64 d1 88 47 69
+
+pattern_id=4 len=12 injected_pos=2103
+09 6a c2 b3 e6 06 e1 5e b8 56 ff 6a
+
+pattern_id=5 len=8 injected_pos=2803
+68 ec b2 04 15 93 54 5e
+
+pattern_id=6 len=15 injected_pos=3269
+47 26 c2 da 97 10 80 15 e2 5c 6e 69 e6 dd 93
+
+pattern_id=7 len=10 injected_pos=4076
+52 9d af f0 a2 bd 1d 2e 51 5f
+
+pattern_id=8 len=11 injected_pos=4217
+1b 59 7b d5 65 3f 86 6d 28 3d 54
+
+pattern_id=9 len=8 injected_pos=5021
+7c 27 f9 22 e0 19 e5 a8
+
+pattern_id=10 len=16 injected_pos=5560
+5b b7 b0 62 b5 81 e4 97 b2 8a 77 4f e5 ff f3 8b
+
+pattern_id=11 len=14 injected_pos=5850
+f9 ca e8 a7 52 d9 df f2 e6 2b c2 b4 2f 4d
+
+pattern_id=12 len=10 injected_pos=6287
+c2 80 30 65 44 d0 d8 83 7b 63
+
+pattern_id=13 len=5 injected_pos=6838
+e6 d9 04 8c 9f
+
+pattern_id=14 len=4 injected_pos=7366
+e5 b8 72 3e
+
+pattern_id=15 len=4 injected_pos=7929
+ad 6f 3b e1
+
+pattern_id=16 len=10 injected_pos=8411
+58 5c 98 0e 73 14 99 42 f6 68
+
+pattern_id=17 len=10 injected_pos=8859
+c9 56 cd 8d 63 af bd bd e1 12
+
+pattern_id=18 len=10 injected_pos=9473
+53 88 59 6e 8d 86 4e 81 5f b4
+
+pattern_id=19 len=4 injected_pos=10215
+b3 dd 77 7e
+
+pattern_id=20 len=16 injected_pos=10507
+f5 08 24 0e 29 d9 8f ae 92 41 24 3b f7 04 8a 38
+
+pattern_id=21 len=16 injected_pos=11132
+c3 dd 3b 21 ea 7b de 73 52 ec 0d 5e 48 08 33 c6
+
+pattern_id=22 len=11 injected_pos=11649
+0f 33 69 29 ff c8 ee 1d cb ef 9f
+
+pattern_id=23 len=12 injected_pos=12081
+63 d6 0b 70 1a 14 ac 1b c7 2c 54 cf
+
+pattern_id=24 len=15 injected_pos=12533
+85 20 44 a8 a7 14 5d ed d0 eb e3 34 bc fb 2a
+
+pattern_id=25 len=5 injected_pos=13171
+1a cb 10 10 17
+
+pattern_id=26 len=13 injected_pos=13808
+ca e9 52 67 52 96 73 bc 03 8a 4d 70 e0
+
+pattern_id=27 len=13 injected_pos=14450
+3e dd bf 17 4a c7 cd 00 fe 9d b4 69 18
+
+pattern_id=28 len=9 injected_pos=14945
+42 3a 0e 41 30 27 ed 22 2c
+
+pattern_id=29 len=4 injected_pos=15550
+fa f0 51 8b
+
+pattern_id=30 len=12 injected_pos=15761
+39 9b f0 8b 8a 56 a9 80 09 86 22 bd
+
+pattern_id=31 len=14 injected_pos=16147
+92 c6 23 85 b7 37 36 44 bf ef ac 55 20 7f
+
+pattern_id=32 len=14 injected_pos=16738
+df 83 0c 2e 04 a2 f8 dd 68 9b d0 a3 94 f5
+
+pattern_id=33 len=10 injected_pos=17202
+16 83 7f 80 93 df 86 22 18 1e
+
+pattern_id=34 len=7 injected_pos=17830
+9a 66 ff 8e e9 da 61
+
+pattern_id=35 len=9 injected_pos=18555
+f6 65 ca 9b 31 71 36 56 a4
+
+pattern_id=36 len=16 injected_pos=18783
+ac 70 a0 d6 c1 cd 8b c4 16 cf 20 56 c7 57 4e a9
+
+pattern_id=37 len=6 injected_pos=19482
+5c e6 aa 0b cd a9
+
+pattern_id=38 len=13 injected_pos=19847
+44 0f d4 70 64 61 1c a0 8b c1 02 d8 de
+
+pattern_id=39 len=9 injected_pos=20782
+c5 73 ff 30 c1 18 24 09 db
+
+pattern_id=40 len=5 injected_pos=21264
+7f f6 b0 73 48
+
+pattern_id=41 len=8 injected_pos=21740
+2e 01 28 6b 80 01 99 61
+
+pattern_id=42 len=6 injected_pos=22189
+55 50 a3 83 76 ae
+
+pattern_id=43 len=10 injected_pos=22778
+72 8a 5b ec a9 73 84 80 90 7f
+
+pattern_id=44 len=14 injected_pos=23352
+77 fb 80 9d 99 fe 0f fe 22 08 3d 41 57 34
+
+pattern_id=45 len=8 injected_pos=23468
+31 b8 97 f7 9c 5c 63 23
+
+pattern_id=46 len=8 injected_pos=24166
+ff d0 63 ee cb e3 95 f9
+
+pattern_id=47 len=8 injected_pos=24594
+2e 71 48 3c 0a 07 cc 4c
+
+pattern_id=48 len=4 injected_pos=25455
+dc d6 b0 b4
+
+pattern_id=49 len=4 injected_pos=25807
+f5 b0 98 90
+
+pattern_id=50 len=5 injected_pos=26073
+62 c0 1c 48 18
+
+pattern_id=51 len=13 injected_pos=26687
+17 d8 5a 06 8a 11 e1 b0 9f a4 8c d2 fb
+
+pattern_id=52 len=16 injected_pos=27523
+bb 1d d6 1e 54 f1 84 15 ec c7 08 ce e6 f8 67 36
+
+pattern_id=53 len=4 injected_pos=27598
+37 12 21 d0
+
+pattern_id=54 len=5 injected_pos=28389
+83 95 db 57 28
+
+pattern_id=55 len=14 injected_pos=28868
+3f b5 f3 1b 61 c9 ad b2 d8 dd e8 8b 34 63
+
+pattern_id=56 len=9 injected_pos=29182
+e0 0f c7 ad 65 5c 03 b7 f9
+
+pattern_id=57 len=15 injected_pos=29921
+c1 6c b0 ff b1 e1 ba 04 12 f6 63 a9 fa 17 49
+
+pattern_id=58 len=16 injected_pos=30308
+71 d4 1b 19 1a d4 bb b0 f1 e5 b3 e2 c0 6e ae ba
+
+pattern_id=59 len=14 injected_pos=31056
+d9 9b 3b 80 93 89 2d 16 f0 5d a7 bc 06 c4
+
+pattern_id=60 len=9 injected_pos=31598
+b2 15 e3 ee 6d 9c 9e 57 4e
+
+pattern_id=61 len=11 injected_pos=32224
+1f ce 63 e9 59 bb d6 fc fb 31 3a
+
+pattern_id=62 len=10 injected_pos=32516
+42 9c 38 71 39 88 da 1b 99 9c
+
+pattern_id=63 len=6 injected_pos=33145
+9e d3 04 61 5f 68
+
+pattern_id=64 len=7 injected_pos=33728
+72 66 f9 5e af e1 8a
+
+pattern_id=65 len=15 injected_pos=33835
+2b 93 99 1f 7f 78 2e d4 76 b3 b2 92 95 bd 8b
+
+pattern_id=66 len=13 injected_pos=34532
+f6 cf 62 81 9e 21 f5 16 26 68 1a 90 4f
+
+pattern_id=67 len=15 injected_pos=35098
+ce df 99 8d 4e 7e fe b4 e2 9c a9 15 43 74 c1
+
+pattern_id=68 len=14 injected_pos=35488
+af 26 28 71 39 0e 28 d7 67 aa 19 3a ec 35
+
+pattern_id=69 len=14 injected_pos=36240
+cf d9 11 1d fd 76 0d ba 73 eb 2e 8f 50 20
+
+pattern_id=70 len=13 injected_pos=36429
+88 70 a3 f0 73 ed 10 55 26 c8 8d 2b 37
+
+pattern_id=71 len=10 injected_pos=36966
+e1 a6 3a 2d a2 1c 95 59 6f 1a
+
+pattern_id=72 len=9 injected_pos=37488
+de d3 1b b6 07 a0 28 55 4e
+
+pattern_id=73 len=5 injected_pos=38232
+a7 2e 49 c0 de
+
+pattern_id=74 len=6 injected_pos=38768
+51 88 4c a3 99 6e
+
+pattern_id=75 len=14 injected_pos=39378
+c6 a9 c2 96 f2 aa 90 d7 e0 3e 4a be 75 cd
+
+pattern_id=76 len=5 injected_pos=39569
+93 c4 78 10 4f
+
+pattern_id=77 len=5 injected_pos=40520
+3f fb 50 b7 f4
+
+pattern_id=78 len=13 injected_pos=40997
+f2 94 03 b2 72 4a d4 59 8f 80 29 3a 5c
+
+pattern_id=79 len=12 injected_pos=41376
+11 9d c1 6b 22 ab 5c 28 27 37 85 1f
+
+pattern_id=80 len=11 injected_pos=42050
+9b 49 00 6f f9 46 2b 9a 55 2f 69
+
+pattern_id=81 len=8 injected_pos=42517
+16 29 22 51 a6 0d 53 5a
+
+pattern_id=82 len=16 injected_pos=43053
+0f 36 a8 02 5f 61 98 c9 fa 9a 55 09 51 94 a3 a1
+
+pattern_id=83 len=12 injected_pos=43346
+7b 66 c4 1a eb a9 5a 28 26 8e 80 2c
+
+pattern_id=84 len=15 injected_pos=43762
+fb eb 80 87 e3 b9 df 55 a3 cd 30 7b d3 b0 82
+
+pattern_id=85 len=16 injected_pos=44471
+7b 5b b5 4e 83 59 15 9e d3 69 bc 6c 92 c9 af 07
+
+pattern_id=86 len=16 injected_pos=45204
+64 c1 34 5b 49 b3 4e bb da 9d a1 3e 78 28 04 59
+
+pattern_id=87 len=8 injected_pos=45390
+46 51 e8 67 72 d1 07 35
+
+pattern_id=88 len=4 injected_pos=46249
+72 a5 79 53
+
+pattern_id=89 len=8 injected_pos=46496
+c2 38 0c 61 d3 68 a9 ea
+
+pattern_id=90 len=11 injected_pos=46818
+63 bd 30 ba 05 72 44 04 bd 18 76
+
+pattern_id=91 len=10 injected_pos=47565
+ae 48 1d 27 9c 03 4d 8a e6 22
+
+pattern_id=92 len=14 injected_pos=47903
+34 0f 69 b3 22 65 71 b9 aa b5 d5 24 8f 6f
+
+pattern_id=93 len=5 injected_pos=48385
+86 64 61 b2 e7
+
+pattern_id=94 len=4 injected_pos=49246
+40 15 d2 81
+
+pattern_id=95 len=12 injected_pos=49897
+ea 12 f8 14 10 0f 5a 2d e2 ba 4e 26
+
+pattern_id=96 len=9 injected_pos=50316
+1e d2 44 6f 03 d5 91 2a 15
+
+pattern_id=97 len=9 injected_pos=50628
+d7 9e 0d b1 3f cd de b0 73
+
+pattern_id=98 len=14 injected_pos=51370
+58 1a e4 72 5d ab 81 2b 06 b0 80 bd 11 f5
+
+pattern_id=99 len=9 injected_pos=51665
+15 44 01 d3 df 14 6f 74 ce
+
+pattern_id=100 len=16 injected_pos=52305
+ef 14 75 26 99 b4 a7 75 9c 04 31 77 c6 3d ee 92
+
+pattern_id=101 len=9 injected_pos=52920
+74 08 6f 3b 0d 8b 3c 60 96
+
+pattern_id=102 len=6 injected_pos=53100
+6e ca ed 31 fa 9b
+
+pattern_id=103 len=4 injected_pos=53724
+a2 7e 27 d5
+
+pattern_id=104 len=14 injected_pos=54411
+1e 17 90 9b 66 51 d5 dd b5 17 37 8d 5a 9b
+
+pattern_id=105 len=5 injected_pos=54637
+40 d8 2e 42 00
+
+pattern_id=106 len=11 injected_pos=55607
+54 6f 11 17 34 a9 ef 0f c3 68 02
+
+pattern_id=107 len=4 injected_pos=56122
+1c 21 f1 50
+
+pattern_id=108 len=6 injected_pos=56198
+36 a1 e9 e5 7a 96
+
+pattern_id=109 len=15 injected_pos=57079
+7c b4 b7 d1 5e 9f d6 85 5c 7c 48 0e db 82 a4
+
+pattern_id=110 len=14 injected_pos=57267
+3c f6 87 8d 34 64 6e ec 94 74 b4 5d d6 d6
+
+pattern_id=111 len=15 injected_pos=58108
+94 1d de 0c 13 d7 94 7d 57 03 89 b9 9a 38 2e
+
+pattern_id=112 len=16 injected_pos=58325
+6c 1c 0b 24 9e d1 39 56 78 ab 93 d5 87 68 d9 04
+
+pattern_id=113 len=9 injected_pos=58967
+74 1c 44 1a 77 7e 97 30 73
+
+pattern_id=114 len=8 injected_pos=59302
+27 7f 3c 4f e6 2e a2 f5
+
+pattern_id=115 len=11 injected_pos=59914
+5f 01 f2 15 3f 61 0a c0 39 b9 7f
+
+pattern_id=116 len=9 injected_pos=60666
+5d 44 84 46 8f 42 2e ae 7a
+
+pattern_id=117 len=5 injected_pos=60923
+8d a7 40 c4 24
+
+pattern_id=118 len=14 injected_pos=61535
+f4 b5 a7 66 c9 cd bd c7 24 cc e1 9d 90 83
+
+pattern_id=119 len=5 injected_pos=61880
+c7 89 3a 68 91
+
+pattern_id=120 len=6 injected_pos=62596
+39 2c 2f 2d 10 83
+
+pattern_id=121 len=8 injected_pos=63310
+1d 06 09 a8 40 d5 ab 2e
+
+pattern_id=122 len=10 injected_pos=63571
+f3 3e 58 f7 3b 67 d9 7d 1f bd
+
+pattern_id=123 len=13 injected_pos=64120
+18 f1 be e6 19 42 9e 6b 79 92 19 49 de
+
+pattern_id=124 len=15 injected_pos=64786
+7f a1 63 56 7a c2 6f 04 2f c0 4d 68 5a 72 98
+
+pattern_id=125 len=5 injected_pos=65182
+66 3f c6 1b 01
+
+pattern_id=126 len=12 injected_pos=65870
+20 b7 bd d8 92 0b c2 9a cc 3f ba 01
+
+pattern_id=127 len=14 injected_pos=66302
+98 c3 de 60 2f 81 1b 31 d3 b3 ed 87 31 3e
+
+pattern_id=128 len=4 injected_pos=66587
+60 59 4c 86
+
+pattern_id=129 len=12 injected_pos=67194
+4f b4 63 5c 8b bc 15 6c a6 69 d1 35
+
+pattern_id=130 len=13 injected_pos=67705
+3c 2d f5 f1 a9 bc 78 a6 5e 30 62 9d d3
+
+pattern_id=131 len=10 injected_pos=68299
+05 74 35 bc 9f fe 5c d8 a0 bc
+
+pattern_id=132 len=9 injected_pos=68862
+be 41 5b be 7a f2 a1 6d 1f
+
+pattern_id=133 len=14 injected_pos=69583
+89 76 c7 62 90 14 9d f7 6b f6 be 03 09 4b
+
+pattern_id=134 len=4 injected_pos=69782
+28 c5 75 09
+
+pattern_id=135 len=10 injected_pos=70546
+ac fe ab df 78 ff dd d5 09 21
+
+pattern_id=136 len=9 injected_pos=71065
+ed a2 4c 32 ff d9 37 0d 24
+
+pattern_id=137 len=7 injected_pos=71414
+46 e2 3c 71 8b 89 a0
+
+pattern_id=138 len=15 injected_pos=71881
+41 4b 5a d7 49 31 38 a8 de 5b 83 7c a0 93 de
+
+pattern_id=139 len=5 injected_pos=72288
+66 d2 68 a4 89
+
+pattern_id=140 len=15 injected_pos=73191
+36 b9 f1 24 3a a7 d3 88 9d ab 96 34 d1 26 4e
+
+pattern_id=141 len=7 injected_pos=73638
+0d 85 fa ca 66 9e 5c
+
+pattern_id=142 len=13 injected_pos=73956
+c4 c1 75 d2 ed cd bd 51 f3 c3 6c d7 d6
+
+pattern_id=143 len=9 injected_pos=74770
+17 b5 ad 38 c7 e2 7c a3 91
+
+pattern_id=144 len=15 injected_pos=74918
+ac 92 e7 6f 5e 99 c3 9b ad 52 54 c1 48 3a 11
+
+pattern_id=145 len=12 injected_pos=75862
+55 19 d3 a8 44 d1 4a 7e a7 a5 20 5b
+
+pattern_id=146 len=6 injected_pos=75998
+d7 60 3e d2 04 19
+
+pattern_id=147 len=4 injected_pos=76513
+87 24 47 64
+
+pattern_id=148 len=12 injected_pos=77130
+13 da e9 40 59 55 e7 be cc ad 31 aa
+
+pattern_id=149 len=4 injected_pos=77582
+21 2d ec 75
+
+pattern_id=150 len=8 injected_pos=78104
+b0 94 96 44 63 a4 39 71
+
+pattern_id=151 len=9 injected_pos=78845
+42 de d7 02 ce 1d b8 e2 cf
+
+pattern_id=152 len=8 injected_pos=79135
+b3 e2 e1 d7 32 c2 95 39
+
+pattern_id=153 len=13 injected_pos=79846
+19 b7 aa a0 b1 c7 63 12 03 fb 2f 1b 68
+
+pattern_id=154 len=9 injected_pos=80183
+38 80 95 88 e1 76 8d 35 e5
+
+pattern_id=155 len=6 injected_pos=80957
+7f c3 d2 07 3b f6
+
+pattern_id=156 len=4 injected_pos=81323
+26 87 d2 96
+
+pattern_id=157 len=7 injected_pos=81880
+f0 6c 7f 27 60 07 d0
+
+pattern_id=158 len=7 injected_pos=82166
+5b f1 c0 0b 4a e8 a5
+
+pattern_id=159 len=4 injected_pos=82837
+d5 35 67 54
+
+pattern_id=160 len=10 injected_pos=83460
+bc 84 1d d5 8c 45 7f af 17 ee
+
+pattern_id=161 len=10 injected_pos=83860
+9f f0 19 29 92 c5 36 68 5f 2f
+
+pattern_id=162 len=4 injected_pos=84456
+e4 d5 06 27
+
+pattern_id=163 len=4 injected_pos=85075
+a8 5f 8e fe
+
+pattern_id=164 len=10 injected_pos=85456
+3a 1b cc e8 e3 00 4d f0 b4 1e
+
+pattern_id=165 len=11 injected_pos=85843
+b6 39 6e 11 ed 49 53 61 f7 96 5a
+
+pattern_id=166 len=15 injected_pos=86736
+e7 8d 65 50 bc e9 36 4e 7a bf 28 c5 82 2a 01
+
+pattern_id=167 len=9 injected_pos=86841
+2b df 1a eb 56 b9 ec 14 78
+
+pattern_id=168 len=8 injected_pos=87624
+17 24 16 e1 87 76 03 30
+
+pattern_id=169 len=14 injected_pos=88268
+5e f1 e6 0c 5d 14 f5 b3 34 e0 1c e4 d6 80
+
+pattern_id=170 len=16 injected_pos=88589
+5f 58 87 a6 35 f4 b1 bb 88 07 88 d9 dd b2 c6 d3
+
+pattern_id=171 len=15 injected_pos=89421
+da 45 38 c7 f8 cf 58 c8 99 42 ad 55 a8 16 2b
+
+pattern_id=172 len=15 injected_pos=89667
+7b 2b 84 4e 46 a1 0e d2 14 8e cc 11 c1 75 e9
+
+pattern_id=173 len=4 injected_pos=90096
+fd ff 73 20
+
+pattern_id=174 len=13 injected_pos=90742
+c7 a4 cd 21 e4 80 ca 5e a1 0a 98 0f 02
+
+pattern_id=175 len=6 injected_pos=91110
+5a ae 63 89 54 e6
+
+pattern_id=176 len=5 injected_pos=91692
+ef 6e a0 43 03
+
+pattern_id=177 len=9 injected_pos=92538
+55 ac 7f 4a bd 06 9b 42 9e
+
+pattern_id=178 len=9 injected_pos=92629
+79 34 89 a6 d0 82 2d 1d 8a
+
+pattern_id=179 len=16 injected_pos=93105
+54 a4 61 d1 43 0f 76 d6 a7 e2 fa 13 43 81 97 aa
+
+pattern_id=180 len=13 injected_pos=93724
+0e 09 03 c3 47 02 69 ae a2 24 a5 68 5c
+
+pattern_id=181 len=10 injected_pos=94349
+bb 28 15 2f 39 1b 22 b0 b4 71
+
+pattern_id=182 len=6 injected_pos=94886
+74 b4 8f 9a 1d 94
+
+pattern_id=183 len=11 injected_pos=95280
+02 0c 95 dd e6 2a 20 1d 39 d9 b0
+
+pattern_id=184 len=16 injected_pos=96153
+fd 6e 98 45 85 fe bd bd 7a eb 12 70 5b 12 1b 45
+
+pattern_id=185 len=10 injected_pos=96531
+81 76 ff 7b 69 41 4f fb 8c 15
+
+pattern_id=186 len=6 injected_pos=96802
+f9 58 52 89 29 20
+
+pattern_id=187 len=4 injected_pos=97322
+fc b4 c1 db
+
+pattern_id=188 len=7 injected_pos=97821
+ea 14 22 ed 57 90 e5
+
+pattern_id=189 len=6 injected_pos=98280
+ff 7a 07 51 5b 47
+
+pattern_id=190 len=11 injected_pos=99064
+84 78 da 75 6f 64 3a 7e 12 67 e3
+
+pattern_id=191 len=8 injected_pos=99668
+6a 66 72 1a d4 a7 82 47
+
+pattern_id=192 len=10 injected_pos=99944
+c2 b1 81 95 66 3c 32 fe 5d 53
+
+pattern_id=193 len=6 injected_pos=100568
+ce ab ef 79 6f 94
+
+pattern_id=194 len=13 injected_pos=101094
+5e a2 a3 04 ba 99 07 6c f3 c1 43 f6 d9
+
+pattern_id=195 len=13 injected_pos=101699
+7d 6b 96 29 5b 1a 71 fc e4 ec 3a 76 61
+
+pattern_id=196 len=16 injected_pos=102424
+1e 6b ed 28 dc 8c 47 e5 a6 ce 1e 2c e7 3b d1 ff
+
+pattern_id=197 len=12 injected_pos=102596
+dc 9e 38 9c 82 27 11 c3 39 5c ac 2f
+
+pattern_id=198 len=5 injected_pos=103470
+1b cd bb 69 8e
+
+pattern_id=199 len=12 injected_pos=103647
+d4 4b 01 8f c0 ef 13 b8 47 3e b0 9d
+
+pattern_id=200 len=12 injected_pos=104363
+1a f8 b7 0d 7a 67 aa d2 af 12 52 8b
+
+pattern_id=201 len=6 injected_pos=104589
+77 e3 dc 0c b8 9e
+
+pattern_id=202 len=14 injected_pos=105526
+d5 32 96 54 28 70 1b 60 68 2e 29 6e 76 b3
+
+pattern_id=203 len=5 injected_pos=105749
+fa 2a 4d 07 49
+
+pattern_id=204 len=8 injected_pos=106188
+72 87 e9 65 5a a6 db e0
+
+pattern_id=205 len=7 injected_pos=106627
+ab 46 08 0a d3 4a d6
+
+pattern_id=206 len=10 injected_pos=107251
+dc 1b 27 98 ed 1d 29 4d 32 ed
+
+pattern_id=207 len=13 injected_pos=107759
+36 82 2b f3 b0 05 03 4f 23 97 9d 36 97
+
+pattern_id=208 len=4 injected_pos=108531
+12 0d f8 92
+
+pattern_id=209 len=14 injected_pos=108846
+9d c8 96 8d de fa fa 6f 42 7b 09 c2 f6 3b
+
+pattern_id=210 len=11 injected_pos=109507
+c6 84 4b 14 b9 57 4b 1d 2f 58 e9
+
+pattern_id=211 len=16 injected_pos=109770
+3f 0a e4 ae 15 55 22 1b 1f c7 fd fe d0 68 2a ad
+
+pattern_id=212 len=4 injected_pos=110590
+8c f6 44 73
+
+pattern_id=213 len=16 injected_pos=111010
+98 d1 37 fd 0d a2 90 c0 55 8a 0a 1a e0 4f 5b 2a
+
+pattern_id=214 len=4 injected_pos=111728
+9d 38 b0 e4
+
+pattern_id=215 len=14 injected_pos=112049
+36 d0 ee 8c e3 6e 54 90 27 2f 4c dc 73 e7
+
+pattern_id=216 len=10 injected_pos=112496
+7c ba 36 b1 ba 05 bd 42 ea 75
+
+pattern_id=217 len=16 injected_pos=113310
+44 91 c0 c7 37 03 7f 3f 81 50 1d ff 86 4a 74 5c
+
+pattern_id=218 len=5 injected_pos=113492
+37 8e a5 92 da
+
+pattern_id=219 len=4 injected_pos=113964
+75 02 8a 96
+
+pattern_id=220 len=14 injected_pos=114684
+01 ba ff 10 fa 60 2b 4f 31 93 d5 dd 5b ee
+
+pattern_id=221 len=10 injected_pos=115374
+c3 2c 9c a2 a2 e0 e0 ba 66 34
+
+pattern_id=222 len=7 injected_pos=115773
+17 fa 40 46 62 95 8c
+
+pattern_id=223 len=16 injected_pos=116397
+23 79 20 5e 52 3c 65 48 f0 76 9e 80 01 22 a4 b6
+
+pattern_id=224 len=12 injected_pos=116625
+7d 09 4e 01 55 5a 75 35 c5 e3 90 94
+
+pattern_id=225 len=8 injected_pos=117047
+41 60 e5 97 ba 15 ff f9
+
+pattern_id=226 len=10 injected_pos=117719
+34 61 cc 3a 6f 17 3b 04 ec 7b
+
+pattern_id=227 len=4 injected_pos=118278
+a0 e9 6f 9d
+
+pattern_id=228 len=15 injected_pos=118770
+61 9b 2b 6f 66 69 fc 05 99 20 e9 ab 67 92 af
+
+pattern_id=229 len=5 injected_pos=119198
+92 94 27 41 9e
+
+pattern_id=230 len=6 injected_pos=119678
+52 d2 4f 9e e0 f0
+
+pattern_id=231 len=11 injected_pos=120213
+24 c8 38 c8 6c 41 74 d2 b6 12 f3
+
+pattern_id=232 len=16 injected_pos=121111
+85 29 f9 e7 5c 05 21 bb ba 00 12 d0 9d 26 82 ff
+
+pattern_id=233 len=13 injected_pos=121656
+b3 77 3b 0f a2 7d f0 df d9 92 a8 aa 0e
+
+pattern_id=234 len=6 injected_pos=122149
+39 e5 13 18 79 cd
+
+pattern_id=235 len=4 injected_pos=122627
+92 a9 ed 7b
+
+pattern_id=236 len=9 injected_pos=122831
+1c 67 e6 11 37 2a 7d f0 d0
+
+pattern_id=237 len=11 injected_pos=123676
+07 76 0c 02 ae a8 66 f5 06 89 fc
+
+pattern_id=238 len=10 injected_pos=124051
+22 ba b6 8f 07 1f 9a 7c 32 20
+
+pattern_id=239 len=16 injected_pos=124668
+ed 74 d5 d6 0c 8b c4 85 20 c1 12 c4 e9 aa 91 5a
+
+pattern_id=240 len=13 injected_pos=125016
+0d ec 06 1d 26 74 d3 fa 76 91 2c 36 97
+
+pattern_id=241 len=11 injected_pos=125768
+ec 66 0e 46 d0 d2 31 08 5f b1 35
+
+pattern_id=242 len=5 injected_pos=125888
+b7 6a 70 a9 08
+
+pattern_id=243 len=6 injected_pos=126688
+1f b9 46 9d 48 93
+
+pattern_id=244 len=13 injected_pos=127331
+9d 09 09 99 92 a8 55 fd 97 43 f2 50 d0
+
+pattern_id=245 len=12 injected_pos=127830
+44 a3 4e 49 c5 71 91 91 89 a0 ec 99
+
+pattern_id=246 len=11 injected_pos=128028
+50 3f 28 a9 49 b6 f2 e4 cf 7f ab
+
+pattern_id=247 len=7 injected_pos=128755
+fb b8 98 37 35 77 b0
+
+pattern_id=248 len=7 injected_pos=129399
+7d 61 2b ae 6d 49 3b
+
+pattern_id=249 len=15 injected_pos=129760
+a3 74 da a8 77 d9 d2 b8 a3 fa e5 90 2f a9 2e
+
+pattern_id=250 len=15 injected_pos=130354
+d2 c7 3b e5 1b 44 ac 60 79 9a 1a cc fb dc 41
+
+pattern_id=251 len=8 injected_pos=130901
+b4 c3 40 ed 18 31 06 0c
+
+pattern_id=252 len=4 injected_pos=131136
+95 52 98 54
+
+pattern_id=253 len=11 injected_pos=131970
+eb 80 0b 89 11 5a a0 a0 45 33 14
+
+pattern_id=254 len=4 injected_pos=132532
+eb 83 8c c4
+
+pattern_id=255 len=15 injected_pos=132915
+22 b8 69 d9 9a a8 91 25 3d 42 b0 c8 c2 ff 5e
+
+pattern_id=256 len=8 injected_pos=133469
+96 c2 88 87 8c f2 79 58
+
+pattern_id=257 len=4 injected_pos=133866
+24 24 89 c5
+
+pattern_id=258 len=11 injected_pos=134445
+da 7e 3f a8 ef 63 07 d8 f9 49 7e
+
+pattern_id=259 len=15 injected_pos=134715
+b6 62 1e df 2b cf 4f 0b 86 bf 67 40 5a 3f 38
+
+pattern_id=260 len=5 injected_pos=135504
+f3 d6 89 66 48
+
+pattern_id=261 len=10 injected_pos=136067
+68 05 08 79 16 0b 54 3d 94 b5
+
+pattern_id=262 len=12 injected_pos=136326
+93 7f f1 c7 65 d5 8f 2d e3 e9 36 bc
+
+pattern_id=263 len=13 injected_pos=137042
+6f 5f bb 03 70 10 7b 1f bb 60 90 6a 2f
+
+pattern_id=264 len=5 injected_pos=137595
+59 9b 58 59 3f
+
+pattern_id=265 len=11 injected_pos=138254
+ce b3 db a7 bc 70 ea f7 62 f4 fe
+
+pattern_id=266 len=12 injected_pos=138486
+76 5e 17 5d ad 6e 30 15 9f 9d 80 e5
+
+pattern_id=267 len=5 injected_pos=139020
+54 2b 43 c4 49
+
+pattern_id=268 len=15 injected_pos=139418
+3d d6 d9 56 71 86 d0 9a ad aa b6 6f a9 71 0b
+
+pattern_id=269 len=5 injected_pos=140309
+a0 f8 d3 0c d1
+
+pattern_id=270 len=16 injected_pos=140772
+f0 ab bf b0 39 44 95 13 74 9a c9 51 55 d3 97 67
+
+pattern_id=271 len=12 injected_pos=141425
+16 ed 86 d3 0a 64 6e fd 0a 2c 42 bc
+
+pattern_id=272 len=15 injected_pos=141667
+11 fe 1b 3c 7f b1 66 7d f3 e9 bb 3b e0 13 42
+
+pattern_id=273 len=7 injected_pos=142454
+14 fa 68 0c 67 9a 05
+
+pattern_id=274 len=14 injected_pos=142972
+29 15 e6 23 e5 1c b4 e1 3c b7 a0 f5 56 cc
+
+pattern_id=275 len=10 injected_pos=143011
+fa 29 b5 43 fc 13 70 51 93 bd
+
+pattern_id=276 len=4 injected_pos=144030
+2e dd d8 05
+
+pattern_id=277 len=10 injected_pos=144175
+38 ca 23 f1 e4 c0 13 88 46 80
+
+pattern_id=278 len=4 injected_pos=144715
+10 42 2c 98
+
+pattern_id=279 len=15 injected_pos=145155
+f4 d0 6f 96 c9 76 8c 1f 1d 97 a7 57 00 0f 9e
+
+pattern_id=280 len=7 injected_pos=145718
+55 db c5 85 24 a8 09
+
+pattern_id=281 len=8 injected_pos=146504
+38 96 aa ef 7b f9 c3 98
+
+pattern_id=282 len=16 injected_pos=146808
+6e e9 c5 58 61 e7 6d b0 2c aa 33 e4 ba 82 4e a1
+
+pattern_id=283 len=5 injected_pos=147558
+55 12 82 3e 3f
+
+pattern_id=284 len=15 injected_pos=147874
+38 cc ed 21 3e 31 2e ac 2a 86 22 8a 94 13 74
+
+pattern_id=285 len=11 injected_pos=148460
+36 46 73 46 9b d6 5e 7d 4f 06 78
+
+pattern_id=286 len=4 injected_pos=148863
+07 df 3a 96
+
+pattern_id=287 len=10 injected_pos=149623
+2f a9 66 f9 92 4d 80 f0 80 b1
+
+pattern_id=288 len=9 injected_pos=149946
+ab a5 6d 7a a7 47 24 0d 9b
+
+pattern_id=289 len=10 injected_pos=150307
+73 0a e5 c5 1b f0 0f 26 a7 1f
+
+pattern_id=290 len=14 injected_pos=151048
+59 eb 1e 40 e9 91 d5 12 41 8b 0a 7f 77 79
+
+pattern_id=291 len=9 injected_pos=151411
+97 94 dd 52 92 17 95 12 6b
+
+pattern_id=292 len=5 injected_pos=151869
+ba fe 88 20 6f
+
+pattern_id=293 len=12 injected_pos=152489
+dd 9f 1f 99 e6 cc 58 a8 7f 4e 34 9c
+
+pattern_id=294 len=8 injected_pos=153336
+04 20 e4 a6 dc 56 1a ce
+
+pattern_id=295 len=5 injected_pos=153649
+3c 02 2d bc 36
+
+pattern_id=296 len=16 injected_pos=154331
+df 29 c0 5b b1 ff 1b 91 ca 23 45 50 58 ba 10 8a
+
+pattern_id=297 len=12 injected_pos=154812
+5b d1 6c c8 db 3d c3 52 ce fd 70 88
+
+pattern_id=298 len=5 injected_pos=155346
+b7 37 14 18 c0
+
+pattern_id=299 len=13 injected_pos=155487
+ce c4 30 a3 98 5f 3a a6 4e 0b 4c a7 f7
+
+pattern_id=300 len=16 injected_pos=156452
+2c 7a eb f3 ae 95 66 45 3b 32 30 15 9a 36 4e 75
+
+pattern_id=301 len=11 injected_pos=156650
+52 9d fb cc 54 af 63 6b 06 8d 6d
+
+pattern_id=302 len=15 injected_pos=157483
+5d 86 fe 27 75 4c 36 e1 c5 e8 30 17 a4 20 c5
+
+pattern_id=303 len=15 injected_pos=157921
+b0 6e cc 0b bf 1f 24 c8 c4 97 34 76 f3 2d 41
+
+pattern_id=304 len=11 injected_pos=158364
+7f 2a 15 c4 95 b5 bb d8 40 82 bf
+
+pattern_id=305 len=13 injected_pos=158745
+10 e9 ee 2f 2e ef 37 39 fc 2c 1c 94 32
+
+pattern_id=306 len=16 injected_pos=159611
+c7 1e 2f 88 60 6a 70 ce aa 5c c7 74 d6 49 66 fd
+
+pattern_id=307 len=11 injected_pos=160015
+4f f0 2e 51 c7 54 83 cb ba f5 0a
+
+pattern_id=308 len=8 injected_pos=160536
+72 03 e7 4d fd 2f e8 a7
+
+pattern_id=309 len=16 injected_pos=161002
+3c 5f ca 2b b6 7f 64 29 c8 26 da d2 e5 3a c7 d9
+
+pattern_id=310 len=15 injected_pos=161440
+00 4d c3 86 56 e7 82 26 5b 47 85 09 08 44 e3
+
+pattern_id=311 len=6 injected_pos=161770
+95 43 1d 94 ac 9a
+
+pattern_id=312 len=15 injected_pos=162252
+b6 35 fc d3 6a 23 97 69 6f 54 9e ba b2 df 95
+
+pattern_id=313 len=15 injected_pos=163171
+73 19 87 08 b2 70 b7 9d 61 89 43 d5 44 5e 0b
+
+pattern_id=314 len=12 injected_pos=163519
+cd 7c 61 f6 52 56 80 1f 54 67 2c 2e
+
+pattern_id=315 len=13 injected_pos=164109
+dc 33 ad e5 d3 a9 6b 97 39 3e f3 84 0d
+
+pattern_id=316 len=13 injected_pos=164743
+95 d6 5a e9 05 1f a4 ca 3f c2 ee fe 75
+
+pattern_id=317 len=7 injected_pos=165219
+11 ff 9a 5d 10 65 a3
+
+pattern_id=318 len=10 injected_pos=165477
+9e 8d e3 98 cd cf db 1b 13 07
+
+pattern_id=319 len=14 injected_pos=166028
+45 d2 c8 73 8b a8 ef 02 d1 c3 16 fe 06 59
+
+pattern_id=320 len=10 injected_pos=166806
+e2 b8 80 c7 cb 48 bb ce 15 9f
+
+pattern_id=321 len=8 injected_pos=166980
+32 e8 fe a2 a2 05 0c 99
+
+pattern_id=322 len=12 injected_pos=167494
+09 72 aa 0f c1 48 5d 7a 76 68 6a 8f
+
+pattern_id=323 len=8 injected_pos=167963
+6a 2d c7 ad 40 86 da 78
+
+pattern_id=324 len=10 injected_pos=168656
+b4 b0 e8 a5 92 75 1e 17 59 97
+
+pattern_id=325 len=16 injected_pos=169075
+b3 f1 49 04 bd 10 73 b3 6f 56 85 64 52 65 fc e9
+
+pattern_id=326 len=10 injected_pos=169524
+7d fe e1 6d 07 b0 96 c5 30 4f
+
+pattern_id=327 len=14 injected_pos=170427
+8f 17 54 8b da 61 8c 1f 07 25 6a f3 b1 75
+
+pattern_id=328 len=15 injected_pos=171039
+4c 63 12 16 63 e0 ab 0e fd 34 09 7d 34 7d 5c
+
+pattern_id=329 len=9 injected_pos=171370
+d8 62 0a f4 1f 03 61 89 ac
+
+pattern_id=330 len=7 injected_pos=171796
+79 03 49 ab 4d 98 b3
+
+pattern_id=331 len=4 injected_pos=172362
+b6 76 23 12
+
+pattern_id=332 len=9 injected_pos=172685
+31 e8 de 60 8f c4 3f e0 20
+
+pattern_id=333 len=11 injected_pos=173589
+6c 3f 18 53 b5 24 43 ba 20 5b bc
+
+pattern_id=334 len=4 injected_pos=173900
+b7 63 87 df
+
+pattern_id=335 len=8 injected_pos=174592
+78 23 d0 f9 3e 7b 07 94
+
+pattern_id=336 len=6 injected_pos=174974
+4d 37 88 09 28 dc
+
+pattern_id=337 len=15 injected_pos=175251
+36 05 7d e5 1b 32 04 b3 df bf e5 b6 cc 0e 61
+
+pattern_id=338 len=10 injected_pos=176005
+6b 25 73 64 53 97 98 ba 8d 58
+
+pattern_id=339 len=6 injected_pos=176388
+5c be 59 4f 76 7c
+
+pattern_id=340 len=9 injected_pos=176933
+b6 18 de 58 55 70 0a b4 04
+
+pattern_id=341 len=16 injected_pos=177336
+68 45 13 24 52 c2 cb 84 43 c6 28 fa d7 8c ac f8
+
+pattern_id=342 len=15 injected_pos=177939
+8a a7 91 b9 57 35 b0 20 39 29 9b c6 af 90 ef
+
+pattern_id=343 len=13 injected_pos=178551
+8c 5b 25 73 19 40 eb b3 0f f9 4f 4e 36
+
+pattern_id=344 len=10 injected_pos=179381
+50 75 bd 68 0b db eb ad 17 88
+
+pattern_id=345 len=10 injected_pos=179560
+ea 97 51 ec c2 ca be 45 97 83
+
+pattern_id=346 len=9 injected_pos=179964
+13 b1 e7 55 7c a8 1b cf e5
+
+pattern_id=347 len=7 injected_pos=180904
+35 31 d6 66 ac 3e 66
+
+pattern_id=348 len=14 injected_pos=181065
+56 ae 20 d2 77 5c 67 01 62 2c 96 92 41 9f
+
+pattern_id=349 len=4 injected_pos=181801
+34 7e c0 97
+
+pattern_id=350 len=11 injected_pos=182217
+60 fa 36 94 aa 61 fc 30 9b ad 1e
+
+pattern_id=351 len=15 injected_pos=182937
+2c 2d 37 35 70 4f 89 14 5a 05 36 90 d4 02 7b
+
+pattern_id=352 len=4 injected_pos=183213
+c9 38 73 db
+
+pattern_id=353 len=6 injected_pos=183602
+11 b1 1b c4 3a d1
+
+pattern_id=354 len=14 injected_pos=184433
+e5 45 51 33 dc 2c c9 50 6c 04 65 b3 43 fd
+
+pattern_id=355 len=16 injected_pos=184800
+d6 c6 ae 16 a6 ee 63 78 d0 01 f1 54 6a 7b fe 7f
+
+pattern_id=356 len=4 injected_pos=185543
+66 49 d1 f9
+
+pattern_id=357 len=6 injected_pos=186113
+19 cb 38 ef 66 10
+
+pattern_id=358 len=9 injected_pos=186596
+04 3c 88 1e 31 d3 30 47 d2
+
+pattern_id=359 len=7 injected_pos=187000
+b5 00 a9 23 13 d8 02
+
+pattern_id=360 len=9 injected_pos=187501
+01 83 e5 91 3d 08 41 ff 3f
+
+pattern_id=361 len=8 injected_pos=188122
+f0 cc b4 9e 67 79 d7 a7
+
+pattern_id=362 len=16 injected_pos=188591
+e3 be e6 8f af 7e 5d 30 f8 10 52 f3 25 c7 7d 35
+
+pattern_id=363 len=14 injected_pos=189242
+72 90 6f ef 46 a0 45 5e ab 1c 6e f3 56 3a
+
+pattern_id=364 len=15 injected_pos=189721
+c1 3e f7 fb f1 14 a6 c3 62 03 69 ed c2 ef 6e
+
+pattern_id=365 len=5 injected_pos=190306
+e8 89 ee ff c4
+
+pattern_id=366 len=4 injected_pos=190509
+55 69 b2 27
+
+pattern_id=367 len=4 injected_pos=190920
+ea bf c6 83
+
+pattern_id=368 len=13 injected_pos=191646
+6b 0c 72 8b ca 8b 7d b1 6b e4 50 a7 c6
+
+pattern_id=369 len=9 injected_pos=192170
+d8 47 6a 65 65 bd 88 a6 79
+
+pattern_id=370 len=10 injected_pos=192600
+b7 be 73 e8 81 7b db a6 37 cb
+
+pattern_id=371 len=14 injected_pos=193035
+70 6b aa f8 09 21 78 4c fa 70 56 5c b9 95
+
+pattern_id=372 len=14 injected_pos=193566
+dd d5 e6 a0 68 75 b3 e4 67 2b 10 b0 d8 a1
+
+pattern_id=373 len=4 injected_pos=194038
+c9 65 56 17
+
+pattern_id=374 len=14 injected_pos=194916
+64 ea 0d ee 1e 57 64 e7 60 33 d3 7d 56 a5
+
+pattern_id=375 len=4 injected_pos=195404
+23 4a 7c 51
+
+pattern_id=376 len=8 injected_pos=195726
+56 c5 c6 13 19 7c 87 9e
+
+pattern_id=377 len=8 injected_pos=196116
+d7 29 70 52 cc 90 82 74
+
+pattern_id=378 len=13 injected_pos=196601
+8c cb 16 39 fb ae f4 f1 b2 99 f5 2d 59
+
+pattern_id=379 len=6 injected_pos=197330
+03 da ad 44 ae 14
+
+pattern_id=380 len=9 injected_pos=197731
+f8 28 86 75 8e 61 dc 73 17
+
+pattern_id=381 len=14 injected_pos=198166
+6c 7a 8b 6c e6 6e 35 4a 30 c9 a1 a8 bb 8f
+
+pattern_id=382 len=16 injected_pos=198847
+d9 22 76 de 47 5f ea 65 0c 49 34 1d 9a 0e 87 f4
+
+pattern_id=383 len=7 injected_pos=199242
+9e 42 60 a6 dc f1 35
+

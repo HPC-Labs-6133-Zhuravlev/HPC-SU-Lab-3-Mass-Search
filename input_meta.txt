@@ -1,0 +1,10 @@
+h=200000
+n=384
+minLen=4
+maxLen=16
+mode=ALL_POSITIONS
+seed=12345
+repeats=3
+injectMatches=1
+matrix_cells=76800000
+occurrence_pairs=3846

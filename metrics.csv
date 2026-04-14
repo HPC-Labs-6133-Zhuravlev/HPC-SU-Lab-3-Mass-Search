@@ -1,0 +1,9 @@
+metric,value
+cpu_avg_ms,449.609
+gpu_setup_ms,0.576456
+gpu_avg_total_ms,134.718
+gpu_avg_kernel_ms,3.89841
+speedup_total,3.3374
+speedup_kernel,115.331
+found_patterns,384
+total_matches,384
